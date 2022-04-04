@@ -5,3 +5,5 @@ Foi criado um repositorio no github.com e já subiu a primeira parte da historia
 primeiro foi permitido o acesso para conseguirmos modificar o mesmo arquivo txt que foi nomeado como RPGhitorias.txt , e assim estão sendo feitas as modificaçoes e também subindo qualquer tipo de atualização, estamos usando comandos basicos como, vim, git status, git pull e git puch, esse é o relatorio até o momento.  
 
 Em seguida foi acrescentado a segunda historia sobre o curandeiro.
+
+teve uma modificação no arquivo, por ser formato txt ele não ficou com o espaçamento e o alinhamento adequado..
