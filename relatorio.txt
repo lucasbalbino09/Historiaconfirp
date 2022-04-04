@@ -7,3 +7,5 @@ e assim estão sendo feitas as modificaçoes e também subindo qualquer tipo de 
 vim, git status, git pull, git add ., git commit e git push, esse é o relatorio até o momento.  
 
 Em seguida foi acrescentado a segunda historia sobre o curandeiro.
+
+Conflito com atualização com o Vaz.. Ele estava fazendo atualização do git e fazendo o clone quando eu ''Lucas Santos'' estava fazendo uma atualização também, logo os dois subiram na mesma hora e teve um conflito, com tudo esperei ele subir logo depois fiz a atualização usando o ''PULL'' e subindo minha versão em seguida
