@@ -10,4 +10,8 @@ Em seguida foi acrescentado a segunda historia sobre o curandeiro.
 
 Conflito com atualização com o Vaz.. Ele estava fazendo atualização do git e fazendo o clone quando eu ''Lucas Santos'' estava fazendo 
 uma atualização também, logo os dois subiram na mesma hora e teve um conflito, com tudo esperei ele subir logo depois fiz a atualização usando 
-o ''PULL'' e subindo minha versão em seguida
+o ''PULL'' e subindo minha versão em seguida.
+
+Nome: Wellington 
+04/04/2022 15:42 
+Foi adicionado mais um conteúdo no arquivo de historiaconfirp, uma história de um monge guerreiro e adicionado a imagem do meu personagem.
