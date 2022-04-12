@@ -1,0 +1,151 @@
+body {
+    background-color: rgb(191, 226, 241);
+    /* padding-bottom: 20%; */
+    width: 100%;
+    text-align: center;
+
+}
+
+#header{
+    padding: 100px;
+}
+
+#viewer {
+    left: 20px;
+}
+
+#keyboard {
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.numero1 {
+    margin-top: 11px;
+    left: 2px;
+    /* background-color: rgb(9, 13, 247); */
+    /* padding-left: 30.5%; */
+    
+}
+
+.numero2 {
+    margin-top: 11px;
+    /* background-color: rgb(238, 22, 227); */
+    /* padding-left: 30.5%; */
+
+}
+
+.numero3 {
+    margin-top: 11px;
+    /* background-color: rgb(33, 83, 124); */
+    /* padding-left: 30.5%; */
+
+}
+
+.numero4 {
+    margin-top: 11px;
+    /* background-color: rgb(42, 112, 59); */
+    /* padding-left: 30.5%; */
+}
+
+.numero5 {
+    margin-top: 11px;
+    /* background-color: rgb(229, 238, 231); */
+    /* padding-left: 30.5%; */
+}
+
+.intermediario {
+    width: 30%;
+    display: table;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.intermediario div{
+    float: left;
+    display: table;
+}
+
+.intermediario .operadores{
+    width: 100%;
+    display: table;
+}
+
+.intermediario .operadores div{
+    padding: 5px;
+    width: 25%;
+    float: left;
+}
+
+
+.intermediario .numeros{
+    width: 75%;
+}
+
+.intermediario .numeros div{
+    width: 33%;
+    float: left;
+    padding: 8px;
+}
+
+.intermediario .numeros div button{
+ width: 100%;
+}
+
+.intermediario .igual{
+    width: 25%;
+}
+
+.intermediario .igual div{
+    padding: 8px 0px;
+    width: 100%;
+}
+
+.intermediario .igual div button{
+    width: 100%;     
+}
+
+button {
+    width: 50px;
+}
+
+#btn-igual{
+    height: 210px;
+    float: right;
+}
+
+.intermediario{
+    width: 30%;
+    display: table;
+    text-align: center;
+    margin: 0 auto;
+
+     /* div{
+        float: left;
+        display: table; */
+    }
+
+.operadores{
+        width: 100%;
+        display: table;
+
+         /* div {
+            padding: 5px;
+            width: 25%;
+        }  */
+    }
+
+.numeros{
+        width: 75%;
+
+        /* div{
+            width: 33%;
+            float: left;
+            padding: 8px;
+
+            button{
+                width: 100%;                
+            } */
+        }
+    }    
+}
